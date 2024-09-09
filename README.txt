@@ -1,6 +1,6 @@
 Este trabalho é dedicado a nossa feira Tecnológica da ETEC, o qual devemos desenvolver um site estático sobre Sustentabilidade, Tecnologia e Inovação.
 
-Nossa ideia é criar um site em que você possa adotar um pet e com isso plantamos uma árvore juntamente de uma associação especializada, também analisamos a possibilidade de comércio dentro do site, no qual os lucros são destinados a causas sustentáveis e de auxílio ao meio-ambiente.
+Nossa ideia é criar um site em que você possa adotar um pet resgatado da rua e com isso plantamos uma árvore juntamente de uma associação especializada, também analisamos a possibilidade de comércio dentro do site, no qual os lucros são destinados a causas sustentáveis e de auxílio ao meio-ambiente.
 
 Desenvolvedores do Projeto:
 - https://github.com/TiemiFe
