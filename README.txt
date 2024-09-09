@@ -5,7 +5,7 @@ Nossa ideia é criar um site em que você possa adotar um pet e com isso plantam
 Desenvolvedores do Projeto:
 - https://github.com/TiemiFe
 - https://github.com/IcaroLucena
-- https://github.com/
-- https://github.com/
-- https://github.com/
-- https://github.com/
+- https://github.com/Duarte
+- https://github.com/JgAutor
+- https://github.com/b-s-silva
+- https://github.com/Isak34
