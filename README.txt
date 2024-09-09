@@ -7,5 +7,5 @@ Desenvolvedores do Projeto:
 - https://github.com/IcaroLucena
 - https://github.com/Nezuko041
 - https://github.com/JgAutor
-- https://github.com/b-s-silva
+- https://github.com/B-S-Silva
 - https://github.com/Isak34
